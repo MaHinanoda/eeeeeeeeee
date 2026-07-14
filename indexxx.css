@@ -1,7 +1,7 @@
 header {
     position: relative;
     height: 40vh;
-    background-image: url(/gazo/mny0141-001.webp);
+    background-image: url(./gazo/mny0141-001.webp);
 
 }
 
@@ -37,7 +37,7 @@ header h1 {
 }
 
 .popup-content {
-    content: url(/gazo/van.png);
+    content: url(./gazo/van.png);
 
     display: flex;
     justify-content: center;
